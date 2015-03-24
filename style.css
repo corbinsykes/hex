@@ -1,0 +1,51 @@
+body {
+	font-family: "Helvetica Neue";
+}
+
+h1 {
+	font-weight: 100;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 5rem;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  margin: 0 auto;
+}
+
+.pull-left {
+  float: left;
+}
+
+.one-fourth {
+  width: 25%;
+}
+
+.new-york {
+  background: url(http://upload.wikimedia.org/wikipedia/commons/8/85/Statue_of_liberty_01.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.london {
+  background: url(http://img0.gtsstatic.com/wallpapers/4b29ab7238c732c5ad7cad626a5b15ec_large.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.shanghai {
+  background: url(http://sites.psu.edu/passiontian2014/wp-content/uploads/sites/18282/2015/02/8289684637_3084874560_o.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.sydney {
+  background: url(http://upload.wikimedia.org/wikipedia/commons/4/40/Sydney_Opera_House_Sails.jpg);
+  background-size: cover;
+  background-position: center center;
+}
